@@ -1,10 +1,10 @@
-# GAIH Student Repo Example
+# GlobalAIHubPythonCourse
 ![](img/newlogo.png)
 
 **Course Date:** DD.MM.YYYY  
-**Name:** Mert  
-**Surname:** Cobanov  
-**Email:** mertcobanov@gmail.com  
+**Name:** Deniz Cagri   
+**Surname:** Tanyildiz  
+**Email:** dcagritan@gmail.com
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
